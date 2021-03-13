@@ -4,7 +4,7 @@
 
 My name is **Carla Brückmann** 👩
 
-👩🏻‍💻 I'm a programming student.
+👩🏻‍💻 Front-end Developer Student.
 
 📍 From SC, Brazil.
 
