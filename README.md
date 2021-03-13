@@ -1,20 +1,20 @@
 
-## Welcome to my page!👋
+## Welcome to my page! 👋
 
 
 My name is **Carla Brückmann** 👩
 
-👩🏻‍💻 Front-end Developer Student.
+* 👩🏻‍💻 Front-end Developer Student.
 
-📍 From SC, Brazil.
+* 📍 From SC, Brazil.
 
-🌱 Currently studying HTML, CSS and JavaScript.
+* 🌱 Currently studying HTML, CSS and JavaScript.
 
-🌈 I love bikes, cats and popcorn.
+* 🌻 I'm mother of an explorer girl.
 
-🌻 I'm mother of an explorer girl.
+* 🌈 I love bikes, cats and popcorn.
 
-💬 Ask me about anything, i'm happy to help!
+* 💬 Ask me about anything, i'm happy to help!
 
 
 
