@@ -1,5 +1,5 @@
 
-## Welcome to my page! 👋
+## Hello! 👋
 
 
 My name is **Carla Brückmann** 👩
