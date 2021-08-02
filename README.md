@@ -24,7 +24,6 @@ My name is **Carla Brückmann** 👩
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-bruckmann-271576ba//)](https://www.linkedin.com/in/carla-bruckmann-271576ba/)
 <br>
 
-<img src="https://raw.githubusercontent.com/CarlaBruckmann/CarlaBruckmann/c5a3dbf9bcf174c8a2e23cdb96cd9193534225b6/img/CarlaBruckmann_cv.svg" alt="curriculum" width="100%"/>
 
 
 
