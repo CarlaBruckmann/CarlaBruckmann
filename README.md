@@ -27,7 +27,7 @@ My name is **Carla Brückmann** 👩
 
 ##
 
-<div>
+<div style="display: inline_block">
     <a href="https://github.com/CarlaBruckmann"></a>
     <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=CarlaBruckmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
