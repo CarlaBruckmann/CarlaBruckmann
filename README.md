@@ -50,8 +50,4 @@ My name is **Carla Brückmann** 👩
   
 ##
 
-<div>
-     <img align="center" alt="cobrinha" height="100%" width="100%"
-        src="https://raw.githubusercontent.com/CarlaBruckmann/CarlaBruckmann/26eafbce59513e9d59afd2ae5465498c0629c019/github-contribution-grid-snake.svg">
-</div>
 
