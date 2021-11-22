@@ -4,17 +4,17 @@
 
 My name is **Carla Brückmann** 👩
 
-* 👩🏻‍💻 Front-end Developer Student.
+* 👩🏻‍💻  Front-end Developer Student.
 
-* 📍 From SC, Brazil.
+* 📍  From SC, Brazil.
 
-* 🌱 Currently studying Typescript and React.
+* 🌱  Currently studying VueJs.
 
-* 🌻 I'm mother of an explorer girl.
+* 🌻  I'm mother of an explorer girl.
 
-* 🌈 I love bikes, cats and popcorn.
+* 🌈  I love bikes, cats and popcorn.
 
-* 💬 Ask me about anything, i'm happy to help!
+* 💬  Ask me about anything, i'm happy to help!
 
 <div>
     <a href="mailto:carlaabruckmann@gmail.com"><img
