@@ -8,7 +8,7 @@ My name is **Carla Brückmann** 👩
 
 * 📍  From SC, Brazil.
 
-* 🌱  Currently studying ReactJs (OneBitCode).
+* 🌱  Currently studying ReactJs (Let's Dev Paipe).
 
 * 🌻  I'm mother of an explorer girl.
 
