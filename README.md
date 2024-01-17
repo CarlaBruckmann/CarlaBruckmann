@@ -1,20 +1,18 @@
 
-## Hello! 👋
+## Olá! 👋
 
 
-My name is **Carla Brückmann** 👩
+Sou **Carla Brückmann** 👩, apaixonada por tecnologia e desenvolvimento web.
 
-* 👩🏻‍💻  Front-end Developer Student.
+**Estudante de Tecnologia em Sistemas para Internet - Senac.**
 
-* 📍  From SC, Brazil.
-
-* 🌱  Currently studying ReactJs (Let's Dev Paipe).
-
-* 🌻  I'm mother of an explorer girl.
-
-* 🌈  I love bikes, cats and popcorn.
-
-* 💬  Ask me about anything, i'm happy to help!
+* 💻  Habilidades em HTML5, CSS3, Tailwind, JavaScript,VueJs, ReactJS, Git e GitHub, VSCode, Wix e Figma.
+* 👩🏻‍💻  Em transição de carreira, com sólida experiência em Administração. 
+* 🌱  Estudando ReactJS.
+* 📍  Morando em Florianópolis, Santa Catarina.
+* 🌻  Mãe de uma garotinha incrível e exploradora.
+* 🌈  Apaixonada por gatos.
+* 💬  Adoro colaborar e estou sempre pronta para ajudar!
 
 <div>
     <a href="mailto:carlaabruckmann@gmail.com"><img
