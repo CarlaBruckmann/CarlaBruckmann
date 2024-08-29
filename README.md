@@ -9,7 +9,7 @@ Sou **Carla Brückmann** 👩, apaixonada por tecnologia e desenvolvimento web.
 * 💻  Habilidades em HTML5, CSS3, Tailwind, JavaScript,VueJs, ReactJS, Git e GitHub, VSCode, Wix e Figma.
 * 👩🏻‍💻  Em transição de carreira, com sólida experiência em Administração. 
 * 🌱  Estudando ReactJS.
-* 📍  Morando em Florianópolis, Santa Catarina.
+* 📍  Morando em Franco da Rocha/ São Paulo.
 * 🌻  Mãe de uma garotinha incrível e exploradora.
 * 🌈  Apaixonada por gatos.
 * 💬  Adoro colaborar e estou sempre pronta para ajudar!
