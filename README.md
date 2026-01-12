@@ -4,7 +4,6 @@
 
 Sou **Carla Brückmann** 👩, apaixonada por tecnologia e desenvolvimento web.
 
-**Estudante de Tecnologia em Sistemas para Internet - Senac.** e **Analise de dados - Laboratoria**
 
 * 💻  Habilidades em HTML5, CSS3, Tailwind, JavaScript,VueJs, ReactJS, Git e GitHub, VSCode, Wix e Figma.
 * 👩🏻‍💻  Em transição de carreira, com sólida experiência em Administração. 
