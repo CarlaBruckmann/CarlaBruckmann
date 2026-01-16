@@ -7,7 +7,7 @@
 
 ### 💡 Sobre mim
 - 👩🏻‍💻 Experiência prévia em Administração e Recursos Humanos  
-- 🌱 Atualmente estudando **Análise de Dados (SQL, Power BI, BigQuery)** e **Front-end (ReactJS)**  
+- 🌱 Atualmente estudando **Análise de Dados (SQL, Power BI, BigQuery)**
 - 🧠 Perfil analítico, organizada, orientada a processos e solução de problemas  
 - 🤝 Gosto de colaborar, aprender em equipe e compartilhar conhecimento  
 
@@ -15,13 +15,13 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Front-end**
-- HTML5 | CSS3 | Tailwind | JavaScript | TypeScript  
-- ReactJS | VueJS  
-
 **Dados**
 - SQL | BigQuery | Google Sheets  
 - Power BI | Análise Exploratória | Estatística Descritiva  
+
+**Front-end**
+- HTML5 | CSS3 | Tailwind | JavaScript | TypeScript  
+- ReactJS | VueJS  
 
 **Design & Versionamento**
 - Figma | Git | GitHub | VSCode  
